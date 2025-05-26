@@ -76,8 +76,6 @@
   </ul>
 </details>
 
----
-
 <p align="center">
   <img src="https://64.media.tumblr.com/bd6b82858363ae8cf4ec3ffc2ad63fdc/5a52a000d9c2df74-df/s540x810/92eba280d80353218a1b0389533eb921ae8ff913.gifv" />
 </p>
