@@ -26,26 +26,26 @@
 
 ## 💖 About Me
 
-- 🏫 <strong>College dropout</strong> making magic from scrap metal!
-- ⚡ <strong>ADHD brain</strong> with Infinite ideas, infinite WIPs (will I ever finish them? Maybe 🗿).
-- ✨ <strong>Passionate</strong> about open source and salvaging and upcycling hardware.
-- 🧁 <strong>Living life</strong> on a verge of starvation, one commit at a time.
+- <img src="https://maschinensturmer.neocities.org/neue/pxl/flandre.gif" /> <strong>College dropout</strong> making magic from scrap metal!
+- <img src="https://maschinensturmer.neocities.org/neue/pxl/patchouli.gif" /> <strong>ADHD brain</strong> with Infinite ideas, infinite WIPs (will I ever finish them? Maybe 🗿).
+- <img src="https://maschinensturmer.neocities.org/neue/pxl/remilia.gif" /> <strong>Passionate</strong> about open source and salvaging and upcycling hardware.
+- <img src="https://maschinensturmer.neocities.org/neue/pxl/youmu.gif" /> <strong>Living life</strong> on a verge of starvation, one commit at a time.
 
 ---
 
 ## 🧠 Top Skills
 
-- 🥧 <strong>PHP</strong> & <strong>Symfony</strong>
-- 🍰 <strong>Node.js</strong>
-- 🦾 <strong>Arduino</strong>
+- <img src="https://maschinensturmer.neocities.org/neue/pxl/sakuya.gif" /> <strong>PHP</strong> & <strong>Symfony</strong>
+- <img src="https://maschinensturmer.neocities.org/neue/pxl/madoka.gif" /> <strong>Node.js</strong>
+- <img src="https://maschinensturmer.neocities.org/neue/pxl/hachune.gif" /> <strong>Arduino</strong>
 
 ---
 
 ## 🌈 Featured Projects
 
-- 🛠️ <a href="https://github.com/adreline/TEA6330T">TEA6330T</a> — An Arduino library for the TEA6330T Sound fader control circuit  
-- 💥 <a href="https://github.com/adreline/crash">crash</a> — CMS, made in pure PHP and designed to be as small as possible. It specializes in publishing written transformative works.
-- 🌐 <a href="https://github.com/adreline/blue-prism">blue-prism</a> — simple Node.js deep web crawler 
+- <img src="https://maschinensturmer.neocities.org/neue/pxl/shikieki.gif" /> <a href="https://github.com/adreline/TEA6330T">TEA6330T</a> — An Arduino library for the TEA6330T Sound fader control circuit  
+- <img src="https://maschinensturmer.neocities.org/neue/pxl/sanae.gif" /> <a href="https://github.com/adreline/crash">crash</a> — CMS, made in pure PHP and designed to be as small as possible. It specializes in publishing written transformative works.
+- <img src="https://maschinensturmer.neocities.org/neue/pxl/cirno.gif" /> <a href="https://github.com/adreline/blue-prism">blue-prism</a> — simple Node.js deep web crawler 
 
 ---
 
