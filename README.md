@@ -19,7 +19,7 @@
     <img src="https://maschinensturmer.neocities.org/button/tetoterritory.gif" />
     <img src="https://maschinensturmer.neocities.org/button/mikufan.png" />
     <img src="https://maschinensturmer.neocities.org/button/thissiteismikuapproved.gif" />
-    <img src="https://maschinensturmer.neocities.org/button/mikuhatsune.gif" />
+    <img src="https://maschinensturmer.neocities.org/button/2hu.gif" />
 </p>
 
 ---
